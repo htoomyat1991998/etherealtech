@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://etherealtech.weebly.com"
+    },
+    {
+      "source": "/:match*",
+      "destination": "https://etherealtech.weebly.com/:match*"
+    }
+  ]
+}
